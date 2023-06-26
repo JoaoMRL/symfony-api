@@ -1,4 +1,4 @@
-# Symfony Auth
+# Symfony API REST
 Projet symfony avec de l'api REST
 
 1. Cloner le projet
