@@ -2,4 +2,5 @@ controllers:
     resource:
         path: ../src/Controller/
         namespace: App\Controller
+        # method: [GET]
     type: attribute
